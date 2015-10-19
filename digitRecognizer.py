@@ -1,5 +1,5 @@
 
-# have to run it tonight after 12 with reducing the no of features passed to logistic regression model
+#  Feature selection using random forests, selected features passed to logistic regression model
 
 import pandas as pd
 import numpy as np 
